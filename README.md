@@ -44,3 +44,19 @@ Two recurring ideas guide the analysis:
 > If this has been true for decades or centuries, what would people have already done about it?
 
 That is often where the hidden iceberg becomes visible.
+
+
+## GitHub Wiki
+
+User-facing reference pages are authored in [`wiki/`](wiki/) and published to the repository's GitHub Wiki by [`.github/workflows/publish-wiki.yml`](.github/workflows/publish-wiki.yml).
+
+Wiki design:
+
+- Home + persistent sidebar
+- hint-first chapter walkthrough
+- problem/symptom index
+- puzzle index
+- beginner cheat sheet
+- compact lore/worldbuilding/theory pages
+
+GitHub requires the Wiki to have one initial page before its backing `.wiki.git` repository exists. After that one-time initialization, changes under `wiki/` publish automatically.
