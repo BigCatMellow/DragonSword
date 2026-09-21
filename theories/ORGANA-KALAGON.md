@@ -17,6 +17,13 @@ This file owns the theory. Evidence status remains canonical in [the claim ledge
 
 These are currently based on a detailed Chapter 2 walkthrough, not direct captured dialogue.
 
+### New reported clue
+
+- **C017:** the Arcana of War describes the beginning of the Great War as a dragon **rebelling against the Goddess**.
+- **C017:** the Arcana of Peace says the Goddess fell into deep sleep after the battle with the Dark Dragon.
+
+The word **rebelled** matters. It suggests a prior relationship, hierarchy, allegiance, or shared order. It does **not** establish that Kalagon was morally right.
+
 ### Verified context
 
 - **C002:** Dragon catastrophe and heroic salvation are recurring major historical themes.
@@ -168,3 +175,60 @@ Downgrade Hypothesis C if:
 - reliable primary material gives a consistent, independently corroborated cosmology with no meaningful ambiguity around Organa/Kalagon.
 
 A simpler explanation winning is a successful research outcome.
+
+
+## Hypothesis D — Kalagon as rebel / possible dragon-side hero
+
+The strongest careful version is **not** “Kalagon was secretly the good guy.”
+
+It is:
+
+> Kalagon may have been a rebel against Organa's order, and the surviving human/Organa tradition may preserve the victor's moral framing of that rebellion.
+
+Possible model:
+
+```text
+pre-war order involving Organa + dragon(s)
+        ↓
+Kalagon rejects/rebels against that order
+        ↓
+Great War
+        ↓
+Organa wins
+        ↓
+Kalagon remembered as Dark/Demon Dragon
+        ↓
+Kalagon's descendants/followers preserve a different memory
+```
+
+### Why the idea has some support
+
+- **C017:** “rebelled against the Goddess” implies conflict after some prior relationship.
+- **C016:** Largo treats slain dragons as brothers and frames humans as dragon-killers.
+- The Kalagon Order wants Kalagon resurrected, showing a surviving tradition that does not accept the dominant Organa framing.
+
+### Why “hero” is still too strong
+
+We currently have no evidence that Kalagon:
+
+- protected humans;
+- opposed tyranny;
+- sacrificed himself for others;
+- defended dragons from an unjust attack;
+- had benevolent goals.
+
+He could have been:
+
+- a justified rebel;
+- a selfish usurper;
+- a dragon nationalist/protector;
+- an equal power resisting Organa;
+- exactly the destructive enemy the Organa tradition says he was.
+
+### Best current formulation
+
+**INFERRED:** Kalagon was probably more than an unrelated monster; “rebelled” implies a prior relationship with Organa's order.
+
+**SPECULATIVE:** he may have been a hero/liberator from the perspective of dragons or his followers.
+
+**Unsupported:** Kalagon was secretly the true good guy.
