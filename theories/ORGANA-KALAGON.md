@@ -232,3 +232,33 @@ He could have been:
 **SPECULATIVE:** he may have been a hero/liberator from the perspective of dragons or his followers.
 
 **Unsupported:** Kalagon was secretly the true good guy.
+
+
+## The generative-body clue
+
+A major complication for a simple “pure evil/corruption” reading is that Kalagon's remains appear **generative**.
+
+Reported lore says body parts scattered after his defeat can give rise to Origin Dragons. Character material also describes at least one Origin Dragon as born from a Dragon heart.
+
+That does not make Kalagon morally good. Nature can create life without being benevolent, and a destructive being can still reproduce.
+
+But symbolically it matters:
+
+- Kalagon is not represented only by rot, poison, void, death, or sterility;
+- his body continues creating beings after his defeat;
+- his remains empower other life;
+- his death becomes part of the world's continuing ecology/history.
+
+This makes a stronger question possible:
+
+> Was Kalagon merely a destructive Dragon, or did he embody a generative force that the later Organa tradition recast primarily as demonic?
+
+### Current status
+
+**INFERRED:** Kalagon's remains are generative, not merely corruptive.
+
+**SPECULATIVE:** that generative quality reflects Kalagon's original moral/cosmic role.
+
+**Not supported:** “creates life, therefore Kalagon was good.”
+
+The moral meaning of the generative property remains unknown.
