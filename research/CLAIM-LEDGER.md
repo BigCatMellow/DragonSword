@@ -39,6 +39,8 @@ Canonical owner for claim status. Analysis files may explain claims but should n
 | C032 | Kalagon may have been regarded as a protector/liberator/hero by dragons or an anti-Organa faction. | SPECULATIVE | Low | C016-C017 + existence of Kalagon Order | direct testimony/history describing his motive or constituency |
 | C033 | Kalagon's remains are generative as well as dangerous: body parts can give rise to Origin Dragons, so his legacy is not described only through decay/corruption. | INFERRED | Medium-High | S010 + reported Origin Dragon character descriptions | direct in-game/codex verification and exceptions |
 | C034 | Kalagon may represent a generative/life-associated force whose later demonization reflects the victor's religious framing. | SPECULATIVE | Low-Medium | C017, C033 | direct cosmology/motive showing whether generative power has moral significance |
+| C035 | Human characters can acquire Dragon power strongly enough to take on dragon or half-dragon forms. | REPORTED | High | chapter walkthrough evidence; direct in-game capture pending | direct story/cutscene capture |
+| C036 | The present/reawakened Dragon could be one of the Six Heroes transformed or altered by Dragon power. | SPECULATIVE | Medium | C014-C015, C035; five Heroes consumed Dragon Dust while Ropie took Arugal's heart | direct identity/origin of the present Dragon; chronology excluding a Hero candidate |
 
 ## Important discipline
 
