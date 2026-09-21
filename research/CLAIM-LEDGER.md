@@ -37,6 +37,8 @@ Canonical owner for claim status. Analysis files may explain claims but should n
 | C030 | Human ↔ Dragon transformation may be a continuum mediated by Dragon substance. | SPECULATIVE | Low | dangerous empowerment/transformation leads from secondary material | direct biological/metaphysical explanation |
 | C031 | The word “rebelled” implies Kalagon/the Dark Dragon had a pre-war relationship to Organa or her order rather than being purely an unrelated outside invader. | INFERRED | Medium | C017 | localization nuance or lore showing “rebelled” is generic wording |
 | C032 | Kalagon may have been regarded as a protector/liberator/hero by dragons or an anti-Organa faction. | SPECULATIVE | Low | C016-C017 + existence of Kalagon Order | direct testimony/history describing his motive or constituency |
+| C033 | Kalagon's remains are generative as well as dangerous: body parts can give rise to Origin Dragons, so his legacy is not described only through decay/corruption. | INFERRED | Medium-High | S010 + reported Origin Dragon character descriptions | direct in-game/codex verification and exceptions |
+| C034 | Kalagon may represent a generative/life-associated force whose later demonization reflects the victor's religious framing. | SPECULATIVE | Low-Medium | C017, C033 | direct cosmology/motive showing whether generative power has moral significance |
 
 ## Important discipline
 
