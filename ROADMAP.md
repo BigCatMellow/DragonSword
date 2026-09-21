@@ -79,6 +79,8 @@
 ## Phase 4 — Player-facing synthesis
 
 - [x] Build hint-first stuck walkthrough with chapter index, symptom index, puzzle index, and progressive disclosure.
+- [x] Build GitHub Wiki source pages, sidebar/navigation, and automatic publish workflow.
+- [ ] Initialize the empty GitHub Wiki with its first UI-created page so automated publishing can activate. **BLOCKED: GitHub UI-only initialization; connector has no Wiki write endpoint.**
 - [ ] Maintain concise “what matters right now” lore reference as the playthrough advances.
 - [ ] Keep spoiler depth visible.
 - [ ] Periodically fold new findings into the iceberg instead of accumulating disconnected notes.
