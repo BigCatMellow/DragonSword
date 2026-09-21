@@ -64,3 +64,13 @@ Something unreachable may need later traversal.
 Check:
 
 **level → Breakthrough → Karma → skills → gear → team synergy**
+
+
+## More help
+
+- [[Quick Tips]] — shortest reference
+- [[Things Easy to Miss]] — hidden/poorly explained systems
+- [[Combat and Signals]] — deeper combat explanation
+- [[Team Synergy]] — choosing heroes that work together
+- [[Progression and Resources]] — what to upgrade and when
+- [[Exploration and World Systems]] — what is worth doing in the world
