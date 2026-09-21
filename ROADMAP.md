@@ -47,12 +47,12 @@
 
 - [x] Bootstrap repository navigation and research rules.
 - [x] Define evidence taxonomy.
-- [ ] Capture baseline lore.
-- [ ] Capture middle-worldbuilding analysis.
-- [ ] Capture Orbis iceberg.
-- [ ] Capture Organa/Kalagon investigation.
-- [ ] Capture compact beginner guide.
-- [ ] Verify links and update this roadmap.
+- [x] Capture baseline lore.
+- [x] Capture middle-worldbuilding analysis.
+- [x] Capture Orbis iceberg.
+- [x] Capture Organa/Kalagon investigation.
+- [x] Capture compact beginner guide.
+- [x] Verify links and update this roadmap.
 
 ## Phase 1 — Replace reported lore with primary evidence
 
@@ -89,3 +89,13 @@ At meaningful new evidence:
 `CONTINUE | CHANGE | RESEARCH | CUT THEORY | STOP`
 
 A theory failing is a useful result. Preserve why it failed, then update the canonical owner.
+
+
+## Bootstrap checkpoint — 2026-09-21
+
+- Type: `INTERNAL`
+- Evidence reviewed: live repository tree; successful fetch of every README-routed owner document; claim/source separation.
+- Decision: `CONTINUE`
+- Reason: bootstrap DONE; remaining work is ongoing evidence replacement and lore investigation, not missing foundation.
+- Next action: replace highest-leverage REPORTED claims with direct in-game/official evidence as the playthrough exposes them.
+- Re-plan if: direct evidence contradicts the current Organa/Kalagon, Six Heroes, or Dragon Dust models.
