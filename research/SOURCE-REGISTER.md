@@ -12,6 +12,8 @@ Retrieval baseline: **2026-09-21**.
 | S004 | Community database reproducing in-game material descriptions: https://dragonswordawakening.net/database/materials | Game-data mirror | Secondary transcription of primary text | Arcana descriptions: Great War begins with a dragon rebelling against the Goddess; Goddess sleeps after battle |
 | S010 | Into Indie Games — Chapter 2 walkthrough, 2026-07-22: https://intoindiegames.com/walkthroughs/dragonsword-awakening-walkthrough-part-3-chapter-2/ | Walkthrough | Secondary, detailed | reported quest events: five-statue monument, Kalagon/Organa/Dragon Dust exposition, Ysera/Ropie/Ewald/Largo |
 | S011 | RPG Site release overview quoting Hound13 store copy: https://www.rpgsite.net/news/20127-dragonsword-awakening-coming-to-pc-via-steam-this-july | Press | Secondary quoting primary | cross-check official premise text |
+| S012 | Orbis Field Guide — Chapters 1–8 story route: https://dragonsword-awakening.wiki/guides/guide/walkthrough-chapters-1-8 | Community walkthrough | Secondary | current-release story blockers and chapter transitions used to seed hint guide |
+| S013 | DragonSwordAwakening puzzle index: https://dragonswordawakening.com/walkthrough/puzzles | Community walkthrough/database | Secondary | environmental puzzle solutions cross-check for hint guide |
 | S020 | Community wikis/guides (various) | Community | Tertiary | leads only until checked against game/official evidence |
 | S030 | Reddit / Steam forums | Community discussion | Anecdotal | player observations, questions, leads; not canon authority |
 | S900 | Prior ChatGPT conversation | Working context | Not evidence | useful for recovering hypotheses; never sufficient to mark a lore claim VERIFIED |
