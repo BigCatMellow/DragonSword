@@ -1,9 +1,15 @@
 ### Play
 - [[Home]]
+- [[Quick Tips]]
+- [[Beginner Cheat Sheet]]
+- [[Things Easy to Miss]]
+- [[Combat and Signals]]
+- [[Team Synergy]]
+- [[Progression and Resources]]
+- [[Exploration and World Systems]]
 - [[Hint Walkthrough]]
 - [[Stuck Index]]
 - [[Puzzles]]
-- [[Beginner Cheat Sheet]]
 
 ### Chapters
 - [[Prologue]]
