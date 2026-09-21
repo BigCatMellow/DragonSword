@@ -15,6 +15,7 @@ This repository uses a lightweight [MAPS_L](https://github.com/BigCatMellow/MAPS
 7. [Organa & Kalagon](theories/ORGANA-KALAGON.md) — focused ancient-history investigation
 8. [Open questions](research/OPEN-QUESTIONS.md) — what to investigate next
 9. [Beginner cheat sheet](guides/BEGINNER-CHEAT-SHEET.md) — compact gameplay reference
+10. [Hint-first walkthrough](walkthrough/README.md) — chapter/problem lookup with progressive hints before direct answers
 
 ## Truth labels
 
