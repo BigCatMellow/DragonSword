@@ -1,13 +1,25 @@
 # DragonSword: Awakening — Field Guide
 
-A spoiler-controlled reference for when you are **stuck**, confused by a system, or want to dig into the lore.
+A spoiler-controlled reference for **playing the game, getting unstuck, and digging into the world**.
 
-## Playing the game
+## Start here
 
-- [[Hint Walkthrough]] — start here when stuck
+- [[Quick Tips]] — fastest useful-reference page
+- [[Beginner Cheat Sheet]] — basic systems at a glance
+- [[Things Easy to Miss]] — mechanics the game barely explains
+
+## Combat / builds
+
+- [[Combat and Signals]] — how switching, Break and Signals actually work
+- [[Team Synergy]] — how to build teams that trigger each other
+- [[Progression and Resources]] — level, Breakthrough, Karma, skills, gear, Awakening
+- [[Exploration and World Systems]] — dungeons, puzzles, cooking, mounts, traversal
+
+## When stuck
+
+- [[Hint Walkthrough]] — chapter-by-chapter, hints before answers
 - [[Stuck Index]] — search by what is happening on screen
 - [[Puzzles]] — puzzle-only hints
-- [[Beginner Cheat Sheet]] — compact systems reference
 
 ## Story / world
 
@@ -18,12 +30,12 @@ A spoiler-controlled reference for when you are **stuck**, confused by a system,
 
 ## Spoiler rule
 
-Walkthrough pages use progressive disclosure:
+Walkthrough pages use:
 
 **Hint 1 → Hint 2 → Answer**
 
 Read only as far as needed.
 
-Lore theories distinguish:
+Lore pages distinguish:
 
 **VERIFIED / REPORTED / INFERRED / SPECULATIVE / UNKNOWN**
