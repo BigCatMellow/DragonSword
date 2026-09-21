@@ -262,3 +262,63 @@ This makes a stronger question possible:
 **Not supported:** “creates life, therefore Kalagon was good.”
 
 The moral meaning of the generative property remains unknown.
+
+
+## Hypothesis E — the Dragon is one of the Six Heroes
+
+If humans can take on Dragon forms, the current Dragon threat does not have to be a completely separate creature.
+
+The Six Heroes are unusually exposed to Dragon power:
+
+- five reportedly consumed Dragon Dust to defeat Arugal;
+- all five reportedly suffered a lasting curse/aftereffects;
+- Ropie refused the Dust but stole Arugal's heart;
+- later story evidence establishes that human → dragon/half-dragon transformation is possible.
+
+That gives **all six** a plausible Dragon-power pathway:
+
+```text
+Five Heroes
+Dragon Dust exposure
+      ↓
+curse / transformation potential
+
+Ropie
+Arugal's heart
+      ↓
+unknown long-term Dragon influence
+```
+
+### Strong version
+
+> The “Dragon that returned after 60 years” is literally one of the Six Heroes after a delayed transformation.
+
+### Weaker version
+
+> One of the Six became or created a Dragon-related threat, making the present crisis a consequence of the old victory.
+
+### Why it fits thematically
+
+It would turn the public legend inside out:
+
+**Six Heroes defeated the Dragon**  
+→ used Dragon power to do it  
+→ one of those Heroes ultimately becomes the next Dragon.
+
+That would make the 60-year return not a coincidence but the **sequel to the original solution**.
+
+It also fits the project's recurring theme that heroic labels conceal consequences.
+
+### Problems / competing explanations
+
+- The returning Dragon may already have an independently established identity.
+- “Dragon appeared again” may refer to a separate Origin/True Dragon.
+- Transformation may require a trigger none of the Six experienced.
+- The curse may weaken/kill rather than transform.
+- Ropie may have hidden Arugal's heart specifically to prevent this outcome.
+
+### Current status
+
+**SPECULATIVE / medium confidence as a theory worth testing.**
+
+Mechanically possible. Narratively elegant. Identity evidence currently missing.
